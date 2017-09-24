@@ -1,0 +1,63 @@
+{
+  "type": "object",
+  "properties": {
+    "plaintiff": {
+      "type": "string"
+    },
+    "defendant": {
+      "type": "string"
+    },
+    "report": {
+      "type": "string"
+    },
+    "year": {
+      "type": "string",
+      "pattern": "^[12][0-9][0-9][0-9]$"
+    },
+    "court": {
+      "enum": [
+        "1st Circuit",
+        "2nd Circuit",
+        "3rd Circuit",
+        "4th Circuit",
+        "5th Circuit",
+        "6th Circuit",
+        "7th Circuit",
+        "8th Circuit",
+        "9th Circuit",
+        "10th Circuit",
+        "11th Circuit",
+        "Federal Circuit"
+      ]
+    },
+    "tags": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "notes": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "holdings": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    }
+  },
+  "required": [
+    "plaintiff",
+    "defendant",
+    "court",
+    "year",
+    "report"
+  ],
+  "additionalProperties": false
+}
