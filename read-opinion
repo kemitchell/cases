@@ -1,0 +1,28 @@
+#!/bin/zsh
+set -e
+
+if [[ -z "$1" ]]; then
+  echo "Usage: <case file>"
+  exit 1
+fi
+
+base=$(basename "$1")
+pdf="opinions/$base.pdf"
+
+mkdir -p opinions
+
+if [[ ! -f "$pdf" ]]; then
+  digest=$(fgrep "document: " "$1" | cut -d ' ' -f 2)
+  if [[ -z "$digest" ]]; then
+    echo "No digest"
+    exit 1
+  fi
+
+  aws s3api get-object \
+    --bucket kemitchell-documents \
+    --key "$digest" \
+    "$pdf"
+    > /dev/null
+fi
+
+nohup zathura "$pdf" &> /dev/null
