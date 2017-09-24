@@ -1,0 +1,43 @@
+#!/usr/bin/env node
+var property = process.argv[2]
+var search = process.argv[3]
+
+if (!property || !search) {
+  console.error('Usage: <field> <search>')
+  process.exit(1)
+}
+
+property = property.toLowerCase()
+search = search.trim().toLowerCase()
+
+var path = require('path')
+var fs = require('fs')
+var runSeries = require('run-series')
+var lamos = require('lamos')
+
+fs.readdir('cases', function (error, entries) {
+  if (error) {
+    console.error(error)
+    process.exit(1)
+  }
+  runSeries(
+    entries.map(function (entry) {
+      return function (done) {
+        var file = path.join('cases', entry)
+        fs.readFile(file, 'utf8', function (error, text) {
+          if (error) return done(error)
+          var parsed
+          try {
+            parsed = lamos.parse(text)
+          } catch (error) {
+            return done(error)
+          }
+          var value = parsed[property]
+          if (value.toLowerCase().includes(search)) {
+            console.log(file + ': ' + value)
+          }
+        })
+      }
+    })
+  )
+})
