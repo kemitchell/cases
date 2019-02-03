@@ -4,7 +4,7 @@
     "ajv": "^5.2.2",
     "husky": "^0.14.3",
     "lamos": "^3.0.4",
-    "run-series": "^1.1.4"
+    "run-series": "^1.1.8"
   },
   "scripts": {
     "precommit": "./validate"
