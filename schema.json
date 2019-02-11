@@ -16,6 +16,7 @@
     },
     "court": {
       "enum": [
+        "Northern District of California",
         "1st Circuit",
         "2nd Circuit",
         "3rd Circuit",
