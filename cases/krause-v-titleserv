@@ -1,5 +1,6 @@
 plaintiff: Krause
-defendant: Titleserv, Inc.
+defendants:
+  - Titleserv, Inc.
 report: 402 F.3d 119
 court: 2nd Circuit
 year: 2005

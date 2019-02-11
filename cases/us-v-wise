@@ -1,5 +1,6 @@
 plaintiff: United States
-defendant: Wise
+defendants:
+  - Wise
 report: 550 F.2d 1180
 court: 9th Circuit
 year: 1977

@@ -1,5 +1,6 @@
 plaintiff: Triad Systems Corp.
-defendant: Southeastern Express Corp.
+defendants:
+  - Southeastern Express Corp.
 report: 64 F.3d 1330
 court: 9th Circuit
 year: 1995

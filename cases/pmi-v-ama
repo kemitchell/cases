@@ -1,5 +1,6 @@
 plaintiff: Practice Management Information Corporation
-defendant: The American Medical Association
+defendants:
+  - The American Medical Association
 report:
 court: 9th Circuit
 year: 1997

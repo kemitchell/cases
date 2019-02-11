@@ -4,8 +4,13 @@
     "plaintiff": {
       "type": "string"
     },
-    "defendant": {
-      "type": "string"
+    "defendants": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
     },
     "report": {
       "type": "string"
@@ -60,7 +65,7 @@
   },
   "required": [
     "plaintiff",
-    "defendant",
+    "defendants",
     "court",
     "year",
     "report"

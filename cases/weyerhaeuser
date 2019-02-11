@@ -1,5 +1,6 @@
 plaintiff: Weyerhaeuser Co.
-defendant: Ross-Simmons Hardwood Lumber Co.
+defendants:
+  - Ross-Simmons Hardwood Lumber Co.
 court: Supreme Court
 year: 2007
 document: 3d8c05eda9abdd8e41f0ca643ffa8f7993a00bd09996eb97acd84791081ce5e1
