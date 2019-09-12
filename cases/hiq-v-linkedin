@@ -1,0 +1,31 @@
+plaintiff: HiQ Labs, Inc.
+defendants:
+  - LinkedIn Corporation
+court: Northern District of California
+report: No.17-cv-16783 (N.D. Cal. Sep. 9, 2019)
+year: 2017
+documents:
+  - digest: 4a538b58bf893582ab5e35b24be37adf4909c923f552b9ce99a422d84ea15b31
+    date: 2019-09-09
+    label: opinion
+tags:
+  - scraping
+  - Computer Fraud and Abuse Act
+  - robots.txt
+  - expectation of privacy
+  - interference with contract
+  - California
+notes:
+  - other theories
+  - state trespass to chattels
+  - copyright infringement
+  - misappropriation
+  - unjust enrichment
+  - conversion
+  - breach of contract
+  - breach of privacy
+quotes:
+  - If companies like LinkedIn, whose servers hold vast amounts of public data, are permitted selectively to ban only potential competitors from accessing and using that otherwise public data, the result---complete exclusion of the original innovator in aggregating and analyzing the public information---may well be considered unfair competition under California law.
+  - In sum, Nosal II and Poewr Ventures control situations in which authorization generally is required and has either never been given or has been revoked.
+holdings:
+  - upheld preliminary injunction
