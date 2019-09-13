@@ -1,0 +1,15 @@
+plaintiff: ElasticSearch, Inc.
+defendants:
+  - Floragunn GmbH
+court: Northern District of California
+documents:
+  - digest: 46f27943aef550447e3a968755b72ddf1df4af67995406cf5bf8f96c84f5ea18
+    date: 2019-09-04
+    label: complaint
+tags:
+  - copyright
+  - open source
+notes:
+  - ...
+holdings:
+  - ...
