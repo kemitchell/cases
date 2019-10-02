@@ -1,0 +1,29 @@
+plaintiff: Ubiquiti Networks, Inc.
+defendants:
+  - Cambium Networks, Inc.
+  - Cambium Networks, Ltd.
+  - Blip Networks, LLC
+  - Winncom Technologies, Inc.
+  - Sakid Ahmed
+  - Dmitry Moiseev
+court: norther Distrit of Illinois
+documents:
+  - digest: 8fa3b33832929fe4ffbd3ce1ae5c6ca257e213f4ea11c131dd5ed6c961af5813
+    date: 2019-05-22
+    label: memorandum opinion and order
+tags:
+  - copyright
+  - open source
+  - GPL
+notes:
+  - GPL in code
+  - wireless enhancement point firmware
+claims:
+  - copyright infringement
+  - RICO
+  - CFAA
+  - Illinois Computer Crime Prevention Law
+  - Lanham Act
+  - state common law
+holdings:
+  - ...
