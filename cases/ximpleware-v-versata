@@ -1,0 +1,19 @@
+plaintiff: Ximpleware
+defendants:
+  - Versata
+court: Northern District of California
+number: 5:13-cv-05161
+documents:
+  - digest: 390780d6f59a858140fb201da33098f336ee9e9444b4ce8279daf279fbabb86c
+    label: amended complaint
+  - digest: 8cf199e0912182aa8ebe180038832aec9e5ab239f1f0189a208d339a628d4596
+    label: order granting partial motion to dismiss
+tags:
+  - copyright
+  - open source
+  - dual licensing
+  - GPL
+notes:
+  - ...
+holdings:
+  - ...
