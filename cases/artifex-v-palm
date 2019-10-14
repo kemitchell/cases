@@ -1,0 +1,19 @@
+plaintiff: Artifex Software, Inc.
+defendants:
+  - Palm
+court: Northern District of California
+report:
+year:
+documents:
+  - digest: 0a0594e507501512685a13a9782888e9f6cd0b1687d663baa12c386bbb314db1
+    label: complaint
+  - digest: 1a480ad1929381309b13408e507a108f3496f75fe1bd31be11e814420f3544be
+    label: complaint attachment
+tags:
+  - copyright
+  - open source
+  - dual licensing
+notes:
+  - ...
+holdings:
+  - ...

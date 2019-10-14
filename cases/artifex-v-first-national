@@ -1,0 +1,17 @@
+plaintiff: Artifex Software, Inc.
+defendants:
+  - First National
+court: Northern District of California
+report:
+year:
+documents:
+  - digest: aa694a7d804f3a7e953e4bec49fb5288a0e7ea323afa620fd32fb050ecab0288
+    label: complaint
+tags:
+  - copyright
+  - open source
+  - dual licensing
+notes:
+  - ...
+holdings:
+  - ...
