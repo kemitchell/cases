@@ -1,4 +1,5 @@
-plaintiff: United States
+plaintiffs:
+  - United States
 defendants:
   - Wise
 report: 550 F.2d 1180

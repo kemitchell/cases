@@ -1,4 +1,5 @@
-plaintiff: Wall Data, Inc.
+plaintiffs:
+  - Wall Data, Inc.
 defendants:
   - Los Angeles County Sheriff's Department
 report: 447 F.3d 769

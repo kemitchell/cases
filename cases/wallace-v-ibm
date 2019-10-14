@@ -1,4 +1,5 @@
-plaintiff: Daniel Wallace
+plaintiffs:
+  - Daniel Wallace
 defendants:
   - International Business Machines Corporation
   - Red Hat, Inc.
@@ -6,7 +7,8 @@ defendants:
 report: 467 F.3d 1104
 court: 7th Circuit
 year: 2006
-document: e56c31d55da8421b86d1128413123147fb5555496aa1849bdcfc357de6b8c376
+documents:
+  - digest: e56c31d55da8421b86d1128413123147fb5555496aa1849bdcfc357de6b8c376
 tags:
   - antitrust
   - predatory pricing

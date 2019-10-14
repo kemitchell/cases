@@ -1,9 +1,11 @@
-plaintiffs: Oracle America, Inc.
+plaintiffs:
+  - Oracle America, Inc.
 defendants:
   - Google LLC
-court: United States Court of Appeals for the Federal Circuit
+court: Federal Circuit
 year: 2014
-document: ac7d2b6ab1831529ed1410c799eb7ff96d4b55ca45f1466ef6521de40679f4ed
+documents:
+  - digest: ac7d2b6ab1831529ed1410c799eb7ff96d4b55ca45f1466ef6521de40679f4ed
 tags:
   - intellectual property
   - copyright

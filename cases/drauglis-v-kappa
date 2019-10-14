@@ -1,7 +1,8 @@
-plaintiff: Art Drauglis
+plaintiffs:
+  - Art Drauglis
 defendants:
   - Kappa Map Group, LLC
-court: United States District Court for the District of Columbia
+court: District of Columbia
 report: No.14-1043 (N.D.DC. Aug. 18, 2015)
 year: 2015
 documents:

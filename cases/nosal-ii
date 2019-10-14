@@ -1,4 +1,5 @@
-plaintiff: United States of America
+plaintiffs:
+  - United States of America
 defendants:
   - David Nosal
 court: Northern District of California
@@ -7,7 +8,7 @@ year: 2017
 documents:
   - digest: 2ffaaa93c97c6bbdd1a7b30d2cb83a6f75958f1272d7a683747d74515f2f6131
     date: 2016-12-08
-    labe: order and amended opinion
+    label: order and amended opinion
 tags:
   - ...
 notes:

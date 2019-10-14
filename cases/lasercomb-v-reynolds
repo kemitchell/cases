@@ -1,4 +1,5 @@
-plaintiff: Lasercomb America, Inc.
+plaintiffs:
+  - Lasercomb America, Inc.
 defendants:
   - Reynolds
 court: 4th Circuit

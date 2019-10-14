@@ -1,4 +1,5 @@
-plaintiff: Krause
+plaintiffs:
+  - Krause
 defendants:
   - Titleserv, Inc.
 report: 402 F.3d 119

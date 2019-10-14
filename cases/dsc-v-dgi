@@ -1,4 +1,5 @@
-plaintiff: DSC Communications Corp.
+plaintiffs:
+  - DSC Communications Corp.
 defendants:
   - DGI Technologies, Inc.
 report: 81 F.3d 597

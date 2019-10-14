@@ -1,4 +1,5 @@
-plaintiff: Artifex Software, Inc.
+plaintiffs:
+  - Artifex Software, Inc.
 defendants:
   - Palm
 court: Northern District of California

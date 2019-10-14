@@ -1,4 +1,5 @@
-plaintiff: HiQ Labs, Inc.
+plaintiffs:
+  - HiQ Labs, Inc.
 defendants:
   - LinkedIn Corporation
 court: Northern District of California

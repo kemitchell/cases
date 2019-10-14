@@ -1,4 +1,5 @@
-plaintiff: Ximpleware
+plaintiffs:
+  - Ximpleware
 defendants:
   - Versata
 court: Northern District of California

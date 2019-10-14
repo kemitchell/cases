@@ -1,4 +1,5 @@
-plaintiff: Facebook, Inc.
+plaintiffs:
+  - Facebook, Inc.
 defendants:
   - Power Ventures, Inc.
   - Steven Suraj Vachani

@@ -1,9 +1,11 @@
-plaintiff: Continental Paper Bag Company
+plaintiffs:
+  - Continental Paper Bag Company
 defendants:
   - Eastern Paper Bag Company
 court: Supreme Court
 year: 1908
-document: 849183fe7f20ce66a9efc1fa654ef8c9e76e4a7868f666ad79e60fda286769d3
+documents:
+  - digest: 849183fe7f20ce66a9efc1fa654ef8c9e76e4a7868f666ad79e60fda286769d3
 report: 210 U.S. 405
 tags:
   - antitrust

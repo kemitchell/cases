@@ -1,9 +1,11 @@
-plaintiffs: Star Athletica, LLC
+plaintiffs:
+  - Star Athletica, LLC
 defendants:
   - Varsity Brands, Inc.
 court: Supreme Court
 year: 2017
-document: c6bde36b635871dff8f0bc37889315a5276499b0970eb4d1203de1bc92c42fb3
+documents:
+  - digest: c6bde36b635871dff8f0bc37889315a5276499b0970eb4d1203de1bc92c42fb3
 number: 15-866
 tags:
   - intellectual property

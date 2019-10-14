@@ -1,8 +1,11 @@
 {
   "type": "object",
   "properties": {
-    "plaintiff": {
-      "type": "string"
+    "plaintiffs": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
     },
     "defendants": {
       "type": "array",
@@ -15,6 +18,9 @@
     "report": {
       "type": "string"
     },
+    "number": {
+      "type": "string"
+    },
     "year": {
       "type": "string",
       "pattern": "^[12][0-9][0-9][0-9]$"
@@ -22,6 +28,8 @@
     "court": {
       "enum": [
         "Northern District of California",
+        "Northern District of Illinois",
+        "District of Columbia",
         "1st Circuit",
         "2nd Circuit",
         "3rd Circuit",
@@ -51,6 +59,20 @@
         "minLength": 1
       }
     },
+    "claims": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "quotes": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
     "holdings": {
       "type": "array",
       "items": {
@@ -58,17 +80,35 @@
         "minLength": 1
       }
     },
-    "document": {
-      "type": "string",
-      "pattern": "^[a-f0-9]{64}$"
+    "documents": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "digest": {
+            "type": "string",
+            "pattern": "^[a-f0-9]{64}$"
+          },
+          "date": {
+            "type": "string",
+            "format": "date"
+          },
+          "label": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "required": [
+          "digest"
+        ],
+        "additionalProperties": false
+      }
     }
   },
   "required": [
-    "plaintiff",
+    "plaintiffs",
     "defendants",
-    "court",
-    "year",
-    "report"
+    "court"
   ],
   "additionalProperties": false
 }

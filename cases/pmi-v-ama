@@ -1,4 +1,5 @@
-plaintiff: Practice Management Information Corporation
+plaintiffs:
+  - Practice Management Information Corporation
 defendants:
   - The American Medical Association
 report:

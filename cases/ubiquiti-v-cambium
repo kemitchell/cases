@@ -1,4 +1,5 @@
-plaintiff: Ubiquiti Networks, Inc.
+plaintiffs:
+  - Ubiquiti Networks, Inc.
 defendants:
   - Cambium Networks, Inc.
   - Cambium Networks, Ltd.
@@ -6,7 +7,7 @@ defendants:
   - Winncom Technologies, Inc.
   - Sakid Ahmed
   - Dmitry Moiseev
-court: norther Distrit of Illinois
+court: Northern District of Illinois
 documents:
   - digest: 8fa3b33832929fe4ffbd3ce1ae5c6ca257e213f4ea11c131dd5ed6c961af5813
     date: 2019-05-22

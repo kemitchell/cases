@@ -1,9 +1,11 @@
-plaintiffs: Oracle America, Inc.
+plaintiffs:
+  - Oracle America, Inc.
 defendants:
   - Google LLC
 court: Northern District of California
 year: 2012
-document: 8f5ee1f476dbcd03471ef0236a68971e0398f659ad8dac8fbb7e600b8c73ee08
+documents:
+  - digest: 8f5ee1f476dbcd03471ef0236a68971e0398f659ad8dac8fbb7e600b8c73ee08
 tags:
   - intellectual property
   - copyright

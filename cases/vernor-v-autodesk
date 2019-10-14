@@ -1,4 +1,5 @@
-plaintiff: Vernor
+plaintiffs:
+  - Vernor
 defendants:
   - Autodesk, Inc.
 report: 621 F.3d 1102
@@ -19,4 +20,5 @@ holdings:
   - "imposes significant transfer restrictions"
   - many usage restrictions
   - not an owner
-document: d0b0bf44c42be2103d71a8179af2e0b605fd8cc9518b6abeaeaf5e515834eb74
+documents:
+  - digest: d0b0bf44c42be2103d71a8179af2e0b605fd8cc9518b6abeaeaf5e515834eb74

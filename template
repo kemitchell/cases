@@ -1,6 +1,9 @@
-plaintiff: 
-defendant: 
+plaintiffs: 
+defendants: 
 report: 
+documents:
+  - digest:
+    label:
 court: 
 year: 
 tags:

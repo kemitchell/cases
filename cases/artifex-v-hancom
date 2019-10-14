@@ -1,4 +1,5 @@
-plaintiff: Artifex Software, Inc.
+plaintiffs:
+  - Artifex Software, Inc.
 defendants:
   - Hancom, Inc.
 court: Northern District of California

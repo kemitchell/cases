@@ -1,4 +1,5 @@
-plaintiff: MAI Systems Corp.
+plaintiffs:
+  - MAI Systems Corp.
 defendants:
   - Peak Computer, Inc.
 report: 991 F.2d 511

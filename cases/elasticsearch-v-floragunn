@@ -1,4 +1,5 @@
-plaintiff: ElasticSearch, Inc.
+plaintiffs:
+  - ElasticSearch, Inc.
 defendants:
   - Floragunn GmbH
 court: Northern District of California
@@ -15,8 +16,8 @@ notes:
   - Floragunn's SearchGuard
   - alleged copying of source-available code
   - alleged decompilation of prior binaries
-  - claimed: big commit, unusually tiny message, after release
-  - claimed: no unit testing, as for prior code
+  - claimed big commit, unusually tiny message, after release
+  - claimed no unit testing, as for prior code
 claims:
   - copyright infringement
   - contributor copyright infringement
