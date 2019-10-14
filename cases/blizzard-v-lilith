@@ -1,0 +1,18 @@
+plaintiff: Blizzard Entertainment, Inc.
+defendants:
+  - Lilith Games (Shanghai) Co. Ltd.
+  - UCool, Inc.
+court: Northern District of California
+number: 3:2015cv04084
+year: 2015
+documents:
+  - digest: 3eb020a207eef317818ff92c4e70784f0dfe238f0ab18463128b13108a50e424
+    date: 2015-12-08
+    label: order granting motion to dismiss with leave to amend
+tags:
+  - copyright
+  - open source
+notes:
+  - ...
+holdings:
+  - ...
