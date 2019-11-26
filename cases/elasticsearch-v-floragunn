@@ -7,6 +7,9 @@ documents:
   - digest: 46f27943aef550447e3a968755b72ddf1df4af67995406cf5bf8f96c84f5ea18
     date: 2019-09-04
     label: complaint
+  - digest: a45e3894da8d6fe20456351092c3ac9b4fb547f1b6180f45c4b7e4afb327f413
+    date: 2019-11-26
+    label: amended complaint
 tags:
   - copyright
   - open source
