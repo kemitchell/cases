@@ -1,0 +1,13 @@
+plaintiffs:
+  - Elasticsearch, Inc.
+defendants:
+  - Amazon.com, Inc.
+documents:
+  - digest: 41f8b1bc51fe6de42acae676b83ab69695443e6b6e6a2746d6710fd7c5af8a59
+court: Northern District of California
+year: 2019
+number: 5:19-cv-06158
+tags:
+  - trademar
+  - open source
+  - software
