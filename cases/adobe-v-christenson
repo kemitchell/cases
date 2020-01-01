@@ -1,0 +1,18 @@
+plaintiffs:
+  - Adobe Systems, Inc.
+defendants:
+  - Joshua Christenson
+court: 9th Circuit
+docket: 2:10-cv-00422-LRH-GWF
+documents:
+  - digest: f86b42bc8767fc1bfdb79b5038b35c0195152507948a0596232c34a5c8a1295b  /home/kyle/downloads/Adobe v Christenson.pdf
+    label: opinion
+tags:
+  - copyright
+  - copyright misuse
+notes:
+  - ...
+claims:
+  - ...
+holdings:
+  - ...

@@ -1,0 +1,21 @@
+plaintiffs:
+  - Oracle USA, Inc.
+  - Oracle America, Inc.
+  - Oracle International Corporation
+defendants:
+  - Rimini Street, Inc.
+  - Seth Ravin
+court: 9th Circuit
+docket: 2:10-cv-00106-LRH-VCF
+documents:
+  - digest: ab82d63080b58b0b0a3b4fc684492d54600398b03b9c62f9503a9307a0d506d4
+    label: opinion
+tags:
+  - copyright
+  - copyright misuse
+notes:
+  - ...
+claims:
+  - ...
+holdings:
+  - ...
