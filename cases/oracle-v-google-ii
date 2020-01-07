@@ -6,6 +6,9 @@ court: Federal Circuit
 year: 2014
 documents:
   - digest: ac7d2b6ab1831529ed1410c799eb7ff96d4b55ca45f1466ef6521de40679f4ed
+  - digest: b0259b7e9ca1f996293c3e1011972577e24d975a0acb56700d739448843547df
+    date: 2020-01-07
+    label: Google Brief
 tags:
   - intellectual property
   - copyright
