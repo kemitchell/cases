@@ -1,0 +1,21 @@
+plaintiffs:
+  - Vernon Hugh Bowman
+defendants:
+  - Monsanto Company
+court: Supreme Court
+docket: 11-796
+citations:
+  - 569 U.S. 278
+documents:
+  - digest: e12849bff8e095a6706a38fe5e11662e6c02ed966f7187eceb561930a0d56757
+    label: opinion
+tags:
+  - patent
+  - patent exhaustion
+  - first sale doctrine
+notes:
+  - TODO
+claims:
+  - patent infringement
+holdings:
+  - patent exhaustion doesn't allow farmer to plant and grow saved seeds covered by patent without permission
