@@ -2,7 +2,8 @@ plaintiffs:
   - Wall Data, Inc.
 defendants:
   - Los Angeles County Sheriff's Department
-report: 447 F.3d 769
+reports:
+  - 447 F.3d 769
 court: 9th Circuit
 year: 2006
 tags:

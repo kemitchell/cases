@@ -4,7 +4,8 @@ defendants:
   - Columbia Broadcasting System, Inc.
 documents:
   - digest: 46ff40cb703c8ec343e0f59e9886f013586d5129b7975d9f5f9000cf38741721
-report: 441 U.S. 1
+reports:
+  - 441 U.S. 1
 court: Supreme Court
 year: 1979
 tags:

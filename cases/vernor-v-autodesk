@@ -2,7 +2,8 @@ plaintiffs:
   - Vernor
 defendants:
   - Autodesk, Inc.
-report: 621 F.3d 1102
+reports:
+  - 621 F.3d 1102
 court: 9th Circuit
 year: 2010
 tags:

@@ -3,7 +3,7 @@ plaintiffs:
 defendants:
   - LinkedIn Corporation
 court: Northern District of California
-report: No.17-cv-16783 (N.D. Cal. Sep. 9, 2019)
+number: No.17-cv-16783 (N.D. Cal. Sep. 9, 2019)
 year: 2017
 documents:
   - digest: 4a538b58bf893582ab5e35b24be37adf4909c923f552b9ce99a422d84ea15b31

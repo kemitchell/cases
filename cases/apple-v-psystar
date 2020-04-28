@@ -3,7 +3,7 @@ plaintiffs:
 defendants:
   - Psystar Corporation
 court: Northern District of California
-docket: 3:08-cv-03251-WHA
+number: 3:08-cv-03251-WHA
 documents:
   - digest: 9c40298db9827858017dcfd6044e6f915454db910a4b6f312b67b44d53ec0ac9
     date: 2011-09-28

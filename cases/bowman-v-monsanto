@@ -3,8 +3,8 @@ plaintiffs:
 defendants:
   - Monsanto Company
 court: Supreme Court
-docket: 11-796
-citations:
+number: 11-796
+reports:
   - 569 U.S. 278
 documents:
   - digest: e12849bff8e095a6706a38fe5e11662e6c02ed966f7187eceb561930a0d56757

@@ -2,7 +2,8 @@ plaintiffs:
   - DSC Communications Corp.
 defendants:
   - DGI Technologies, Inc.
-report: 81 F.3d 597
+reports:
+  - 81 F.3d 597
 court: 5th Circuit
 year: 1996
 tags:

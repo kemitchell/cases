@@ -2,7 +2,8 @@ plaintiffs:
   - DSC Communications Corp.
 defendants:
   - Pulse Communications, Inc.
-report: 170 F.3d 1354
+reports:
+  - 170 F.3d 1354
 court: Federal Circuit
 year: 1999
 tags:

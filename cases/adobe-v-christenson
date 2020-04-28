@@ -3,7 +3,7 @@ plaintiffs:
 defendants:
   - Joshua Christenson
 court: 9th Circuit
-docket: 2:10-cv-00422-LRH-GWF
+number: 2:10-cv-00422-LRH-GWF
 documents:
   - digest: f86b42bc8767fc1bfdb79b5038b35c0195152507948a0596232c34a5c8a1295b
     label: opinion
@@ -15,13 +15,13 @@ notes:
   - burden of proof for first sale defense
   - "'possession is nine-tenths of the law' has no traction under § 109(a)"
   - Software Surplus, Inc.
-  - establishing infrinement: copyright holder
-  - initial defense: at SJ, D must show evidence sufficient for jury to find lawfully acquired ownership of genuine copies
-  - shift: copyright holder must show licensing or other non-ownership-transferring arrangement when the copy first changed hands
+  - establishing infrinement\: copyright holder
+  - initial defense\: at SJ, D must show evidence sufficient for jury to find lawfully acquired ownership of genuine copies
+  - shift\: copyright holder must show licensing or other non-ownership-transferring arrangement when the copy first changed hands
   - Rule 26(a) prevented Adobe from giving evidence of license-not-sale
   - copyright holder in superior position to produce documentation
-  - Christenson: "He cannot produce records that do not exist."
-  - Adobe: always license, never sell
+  - Christenson\: "He cannot produce records that do not exist."
+  - Adobe\: always license, never sell
   - "Adobe and Adobe alone knows the parties with whom it contracts."
   - district court excluded virtually all of Adobe's late-offered evidence of licenses
   - rather tortured discovery process

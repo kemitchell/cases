@@ -15,8 +15,11 @@
         "minLength": 1
       }
     },
-    "report": {
-      "type": "string"
+    "reports": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
     },
     "number": {
       "type": "string"

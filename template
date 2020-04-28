@@ -1,6 +1,7 @@
 plaintiffs: 
 defendants: 
-report: 
+reports: 
+  - 
 documents:
   - digest:
     label:

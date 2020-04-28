@@ -2,7 +2,8 @@ plaintiffs:
   - MAI Systems Corp.
 defendants:
   - Peak Computer, Inc.
-report: 991 F.2d 511
+reports:
+  - 991 F.2d 511
 court: 9th Circuit
 year: 1993
 tags:

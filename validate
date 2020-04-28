@@ -24,6 +24,7 @@ fs.readdir('cases', function (error, entries) {
           try {
             parsed = lamos.parse(text)
           } catch (error) {
+            error.file = file
             return done(error)
           }
           validate(parsed)
@@ -39,6 +40,7 @@ fs.readdir('cases', function (error, entries) {
     }),
     function (error) {
       if (error) {
+        if (error.file) console.error(error.file + ':')
         console.error(error)
         process.exit(1)
       }

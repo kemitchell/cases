@@ -4,7 +4,8 @@ defendants:
   - International Business Machines Corporation
   - Red Hat, Inc.
   - Novell, Inc.
-report: 467 F.3d 1104
+reports:
+  - 467 F.3d 1104
 court: 7th Circuit
 year: 2006
 documents:

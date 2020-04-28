@@ -6,7 +6,7 @@ defendants:
   - Rimini Street, Inc.
   - Seth Ravin
 court: 9th Circuit
-docket: 2:10-cv-00106-LRH-VCF
+number: 2:10-cv-00106-LRH-VCF
 documents:
   - digest: ab82d63080b58b0b0a3b4fc684492d54600398b03b9c62f9503a9307a0d506d4
     label: opinion
@@ -30,22 +30,22 @@ notes:
   - Nevada Computer Crimes Law
   - California Unfair Competition Law
   - $50m damages, $124m total judgment
-  - first: copyright under license for one customer for work for other customers or for unknown or future customers
-  - second: use of automated tools to download software
+  - first\: copyright under license for one customer for work for other customers or for unknown or future customers
+  - second\: use of automated tools to download software
   - J.D. Ewards
   - Siebel
   - PeopleSoft
   - Database
   - Rimini itself didn't have Oracle licenses
-  - J.D. Edwards: "except to the extent necessary for Customer's archival needs and to support the Users"
-  - Siebel: "solely for archive or emergency back-up purposes or disaster recovery and related testing"
+  - J.D. Edwards\: "except to the extent necessary for Customer's archival needs and to support the Users"
+  - Siebel\: "solely for archive or emergency back-up purposes or disaster recovery and related testing"
   - for enterprise software, have to test updates with customizations
   - sandboxes v. production
   - maintaining requires copying
   - outsourcing maintenance
-  - direct use: creating development environments
-  - cross-use: to support other customers
-  - Rimini: any organization that might hire Rimini ... would itself have a license
+  - direct use\: creating development environments
+  - cross-use\: to support other customers
+  - Rimini\: any organization that might hire Rimini ... would itself have a license
   - reduce expenses by reusing work
   - focus on jury instructions
   - raised contract, not just copyright, only in appellate brief
@@ -56,7 +56,7 @@ notes:
   - "to support the customer's use"
   - right of first publication, right of first copy
   - giving Oracle head start creating development environments entirely consistent with Harper & Row v. Nation Enters.
-  - PeopleSoft: "solely for Licensee's internal data processing operations at its facilities"
+  - PeopleSoft\: "solely for Licensee's internal data processing operations at its facilities"
   - more restrictive
   - "local hosting"
   - transmission delays
