@@ -1,0 +1,26 @@
+plaintiffs:
+  - CoKinetic Systems Corp.
+defendants:
+  - Panasonic Avionics Corporation
+court: Southern District of New York
+number: 17-cv-1527
+documents:
+  - digest: f99d698b3da74dc85b766cd9aaf0e87ee1f0172833724c7ecc5c06776a2420f5
+    label: complaint
+  - digest: 47a6263116b173bed7a39a503014be7171b71a03a9099654be2dedf4a2b9eab0
+    label: letter informing of settlement
+  - digest: 61492bfa16b1125f54c4fb99dc24e910abc52cdb918df3897109ef75469c3309
+    label: order approving settlement
+tags:
+  - copyright
+  - GPLv2
+  - open source
+  - free software
+  - antitrust
+  - unfair competition
+notes:
+  - TODO
+claims:
+  - third-party beneficiary of GPLv2
+holdings:
+  - TODO
