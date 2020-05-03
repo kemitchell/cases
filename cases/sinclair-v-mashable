@@ -1,0 +1,17 @@
+plaintiffs:
+  - Stephanie Sinclair
+defendants:
+  - Ziff Davis, LLC
+  - Mashable, Inc.
+court: Southern District of New York
+documents:
+  - digest: 16dd568772e4d406ef2ec233427bb09806abd88690259d2d8dfce08229a397d4
+    label: opinion
+tags:
+  - copyright
+notes:
+  - TODO
+claims:
+  - copyright infringement
+holdings:
+  - TODO
