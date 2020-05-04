@@ -3,7 +3,7 @@
   "devDependencies": {
     "ajv": "^6.12.2",
     "husky": "^4.2.5",
-    "lamos": "^3.0.4",
+    "lamos": "^4.0.0",
     "run-series": "^1.1.8"
   },
   "scripts": {},
