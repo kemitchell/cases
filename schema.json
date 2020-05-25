@@ -49,6 +49,9 @@
         "Supreme Court"
       ]
     },
+    "division": {
+      "type": "string"
+    },
     "tags": {
       "type": "array",
       "items": {
