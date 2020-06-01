@@ -1,12 +1,12 @@
 plaintiffs:
   - Capitol Records, LLC
 defendants:
-  - Redigi Inc.
+  - ReDigi Inc.
 court: Southern District of New York
 number: 12-cv-95
 documents:
-  - digest: 8cbe08d6a411317ad0b1580d0536ecd0a8d49a3b02885b325bbd67c6
-    label: opinion
+  - digest: 0bbc06b146824ad0f58338360d1b30c762ca4954238e5cc5937a59c754552b97
+    label: memorandum and order
 tags:
   - copyright
 notes:
