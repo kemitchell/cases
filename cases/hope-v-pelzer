@@ -3,6 +3,7 @@ plaintiffs:
 defendants:
   - Pelzer
 court: United States Supreme Court
+year: 2002
 documents:
   - digest: c6002d742f319df0b1cc7bf3f33bebc9dc8465643de3a647a8025bd010e6ea97
     label: opinion

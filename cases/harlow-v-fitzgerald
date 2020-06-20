@@ -3,6 +3,7 @@ plaintiffs:
 defendants:
   - Fitzgerald
 court: United States Supreme Court
+year: 1982
 documents:
   - digest: 5db9b6e2dd0e1b91a33417310092e7ecc1ca431dacbae526c593484ce246400f
     label: opinion

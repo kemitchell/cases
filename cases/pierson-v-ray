@@ -3,6 +3,7 @@ plaintiffs:
 defendants:
   - Ray
 court: United States Supreme Court
+year: 1967
 documents:
   - digest: f7f0eeea678f725a82f6bda1a86119731b88b95dba30096cf2ac22f02a6c9590
     label: opinion
