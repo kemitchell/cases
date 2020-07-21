@@ -1,0 +1,15 @@
+plaintiffs:
+  - Martin
+defendants:
+  - Boise
+documents:
+  - digest: 2fa9b8e78d8dd7935c8e3d0bf529948e0ff97da1340011d9a3dbcacf841644f7
+    label: opinion
+tags:
+  - homelessness
+notes:
+  - TODO
+claims:
+  - TODO
+holdings:
+  - TODO
