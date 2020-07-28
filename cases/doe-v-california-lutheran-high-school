@@ -1,0 +1,15 @@
+plaintiffs:
+  - Jane Doe
+defendants:
+  - California Lutheran High School Association
+  - et al
+documents:
+  - digest: 8dbd207a8f5ffe6439cd420ca0af8eac74dd314617e8dd21f3d9785ad08114a9
+    label: opinion
+tags:
+  - California
+  - Unruh Act
+notes:
+  - ...
+holdings:
+  - ...
