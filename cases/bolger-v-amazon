@@ -6,3 +6,15 @@ documents:
   - digest: 152386daf135d47c405087eaab928112464ffe52ea5bf2bb14b19697e45874be
     date: 2020-08-13
     label: opinion
+court: Court of Appeal, Fourth Appellate District, Division One, State of Califofnia
+year: 2020
+number: 37-2017-00003009-CU-PL-CTL
+tags:
+  - Section 230
+  - Strict Products Liability
+  - California Law
+notes:
+  - exploding laptop battery
+holdings:
+  - strict product liability
+  - CDA 230 does not bar
