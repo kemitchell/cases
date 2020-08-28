@@ -1,0 +1,22 @@
+plaintiffs:
+  - Micah Jessop
+  - Brittan Ashjian
+defendants:
+  - City of Fresno
+  - Derik Kumagai
+  - Curt Chastain
+  - Tomas Cantu
+court: 9th Circuit
+number: 17-16756
+documents:
+  - digest: 01b61ee8e896dbcc1d70137f5b2745166081f9afb771830f9133e94bb8008e54
+    label: opinion
+tags:
+  - qualified immunity
+  - fourth amendment
+  - fourteenth amendment
+notes:
+  - cash and coins seized serving warrant on illegal gambling machine operation
+holdings:
+  - no clearly established violation of fourth amendment
+  - no clearly established violation of fourteenth amendment
