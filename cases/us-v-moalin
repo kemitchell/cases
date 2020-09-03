@@ -1,3 +1,9 @@
+plaintiffs:
+  - United States
+defendants:
+  - Basaaly Saeed Moalin
+court: 9th Circuit
+number: 13-50572
 documents:
   - digest: eb0e5e0bb3419f61963c8a2bcc06abc0e1549147d2bcea09f480a54dd793876e
     label: opinion
@@ -5,3 +11,5 @@ tags:
   - National Security
   - National Security Agency
   - Surveillance
+  - FISA
+  - Fourth Amendment
