@@ -1,0 +1,24 @@
+plaintiffs:
+  - Robert Jacobsen
+defendants:
+  - Matthew Katzer
+  - Kamind Associates, Inc.
+court: United States District Court for the Northern District of California
+number: 3:06-cv-01905-JSW
+documents:
+  - digest: 350c54091ca7b16a19bd97ee0e30f9d7becbfcb231d0e36b5d959421e8c813ee
+    date: 2009-12-03
+    label: Notice of Tentative Ruling and Questions Re Motions for Summary Judgment
+  - digest: 3ab9f86c597315d397fdc172a9683759da79b53c32619efc34aa075a0fd99b88&
+    date: 2009-12-10
+    label: Order Granting in Part and Denying in Part Plaintiff's Motions for Summary Judgment and Denying Defendants' Motion for Partial Summary Judgment
+tags:
+  - open source
+  - Artistic License
+  - copyright
+notes:
+  - TODO
+claims:
+  - TODO
+holdings:
+  - TODO
