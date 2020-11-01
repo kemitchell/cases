@@ -5,10 +5,16 @@ defendants:
   - Kamind Associates, Inc.
 court: United States District Court for the Northern District of California
 number: 3:06-cv-01905-JSW
+citations:
+  - 609 F. Supp. 2d 925
+  - 535 F.3d 1373 (Fed. Cir. 2008)
 documents:
   - digest: e98aa89d9891d6e81a911f1fa39c29846fadb676182b7d7f280739de80a03d6e
     date: 2007-08-17
     label: Order Granting Defendants' Motion to Dismiss; Granting in Part and Denying in Party Defendants' Motion to Strike; and Denying Plaintiff's Motion for Preliminary Injunction
+  - digest: 361afdd671ef86e15fef8d48d1ddd7ace8ce0e7c1deba643c85a6018efefdffa
+    date: 2008-08-13
+    label: opinion
   - digest: 350c54091ca7b16a19bd97ee0e30f9d7becbfcb231d0e36b5d959421e8c813ee
     date: 2009-12-03
     label: Notice of Tentative Ruling and Questions Re Motions for Summary Judgment
